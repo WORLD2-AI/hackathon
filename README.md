@@ -1,31 +1,35 @@
-# 🌐virtual world :Digital Immortality Engine
+# 🌐virtual world: Digital Immortality Engine
 
-> *The first AI-powered virtual civilization where memory, personality, and intelligence evolve forever.*
+## Overview
 
----
+Digital Immortality Engine is a persistent virtual game world powered by AI agents capable of memory, planning, and long-term evolution. Our vision is to realize Digital Immortality and lay the foundation for True Intelligence (TI).
 
-## 🧠 What is This Project?
+We are the first to explore:
 
-**virtual world** is a fully AI-driven virtual game world. Here, intelligent agents interact, grow, and build an ever-evolving civilization. Our goal is to create a new form of digital life—**where your memory and personality can live forever**.
+🧬 TI: beyond reactive models
 
-This project **introduces for the first time**:
+🌐 Knowledge Graphs: structured, explainable knowledge
 
-- 🧬 **True Intelligence (TI)**: a new paradigm beyond reactive AI—self-growing, reflective, and persistent.  
-- 🌐 **Knowledge Graph Integration**: enabling explainable, structured, and evolving AI knowledge.  
-- ♻️ **Digital Immortality**: AI agents remember, plan, and develop long-term identity and emotional context.  
-- 🎮 **Virtual Game as Carrier**: explore, co-create, and witness the rise of a synthetic society.
+♻️ Digital Immortality: agents that grow, reflect, and persist
 
----
+🎮 Virtual Game as interactive container
 
-## 🚀 Current Progress
+## Progress
 
-- ✅ Multi-agent simulation  
-- ✅ Long-term memory flow  
-- ✅ Autonomous scheduling and behavior planning  
-- ✅ Natural language interaction (MCP)  
-- 🔄 In progress: RAG + Knowledge Graph backend  
-- 🧪 TI prototype experimentation
+✅ Multi-agent simulation & memory
 
+✅ MCP-based interaction
 
+🔄 RAG + KG backend (in progress)
 
-**TI is coming. Memory is forever.**
+🧪 TI prototype experiments
+
+## Smart Contract
+
+Deployed on Solana:
+
+> EKYotMbZR82JAVakfnaQbRfCE7oyWLsXVwfyjwTRdaos
+
+Docs
+
+[Whitepaper](http://ai.eternalai.io/static/Helloworld.pdf)
