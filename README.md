@@ -32,4 +32,4 @@ Deployed on Solana:
 
 Docs
 
-[Whitepaper](http://ai.eternalai.io/static/Helloworld.pdf)
+[Whitepaper](https://ai.eternalai.io/file)
