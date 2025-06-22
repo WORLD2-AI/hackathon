@@ -4,3 +4,6 @@
 [submodule "front"]
 	path = front
 	url = https://github.com/WORLD2-AI/front.git
+[submodule "chat-rag"]
+	path = chat-rag
+	url = https://github.com/WORLD2-AI/chat-rag
